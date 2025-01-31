@@ -1,0 +1,61 @@
+img{
+    margin: 0 auto;
+    padding: 0;
+    display: block;
+}
+.img{
+    margin: 0 auto;
+    padding: 0;
+}
+.grey{
+margin: 0 auto;
+background-color: rgb(231, 226, 226);
+width: 670px;
+;
+}
+.first{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
+.centeredButtons{
+    text-align: center;}
+.centered{
+    text-align: center;
+    margin-bottom: 0;
+}
+div.foot{
+    text-align: center;
+    width: 670px;
+    justify-content: center;
+
+}
+a{
+    display: block;
+    margin: auto
+}
+a.not{
+    display: inline;
+}
+.three{
+    margin: 0 ;
+    padding: 10px auto 10px auto;
+}
+.d1{
+    width: 33.3%;
+}
+.d2{
+    width: 22.2%;
+}
+d3{
+    width: 44.4%;
+}
+body{
+    width: 670px;
+    justify-content: center;
+    justify-items: center;
+    margin: auto;
+}
+input{
+    margin:auto;
+}
