@@ -10,7 +10,7 @@ img{
 .grey{
 margin: 0 auto;
 background-color: rgb(231, 226, 226);
-width: 670px;
+width: 1350px;
 ;
 }
 .first{
@@ -26,7 +26,7 @@ width: 670px;
 }
 div.foot{
     text-align: center;
-    width: 670px;
+    width: 1350px;
     justify-content: center;
 
 }
@@ -51,7 +51,7 @@ d3{
     width: 44.4%;
 }
 body{
-    width: 670px;
+    width: 1350px;
     justify-content: center;
     justify-items: center;
     margin: auto;
